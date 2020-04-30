@@ -1,0 +1,372 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cashier
+</name>
+</assembly>
+<members>
+<member name="T:Cashier.KasirDataSet.tbl_adminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_barangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_detailjualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_jualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_adminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_barangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_detailjualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_jualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_adminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_barangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_detailjualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Cashier.KasirDataSet.tbl_jualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Cashier.KasirDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Cashier.KasirDataSetTableAdapters.tbl_adminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Cashier.KasirDataSetTableAdapters.tbl_barangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Cashier.KasirDataSetTableAdapters.tbl_detailjualTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Cashier.KasirDataSetTableAdapters.tbl_jualTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Cashier.KasirDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Cashier.KasirDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Cashier.KasirDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Cashier.KasirDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Cashier.KasirDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Cashier.KasirDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Cashier.KasirDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Cashier.KasirDataSetTableAdapters.TableAdapterManager.UpdateAll(Cashier.KasirDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Cashier.KasirDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Cashier.KasirDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Cashier.KasirDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources._148766">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources._1487661">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.add_file_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.add_list_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.add_user_2_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.book_16_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.book_stack_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.bookmark_4_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.books_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.buy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.buy_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.cancel_close_delete_dismiss_exit_recycle_remove_icon_close_png_512_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.cart_29_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.clipboard_2_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.clipboard_4_64_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.clipboard_64_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.clipboard_8_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.conference_call_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.credit_card_5_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.database">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.delete_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.delete_64_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.disapprove_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.edit_property_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.edit_property_64_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.edit_user_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.email_2_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.email_3_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.exit_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.eye">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.filled_box_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.folder">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.folder_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.folder_2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.full_folder_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.gear_2_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.group_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.iconfinder_19_330401">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.iconfinder_logout_59482">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.iconfinder_profle_1055000">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.info_5_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.lg_56af0c511a7f0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.list_ingredients_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.literature_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.maximize">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.newspaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.phone_3_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.phone_5_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.photo_1481627834876_b7833e8f5570">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.photo_1481627834876_b7833e8f55701">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.report_3_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.resizeApi_php">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.resizeApiMax">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.resizeApimin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.return_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.thinking">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.time_9_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.transfer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cashier.My.Resources.Resources.view_details_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Cashier.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

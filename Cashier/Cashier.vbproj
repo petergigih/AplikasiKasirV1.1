@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{887E5342-5ED7-400E-9B3A-89DC4C286BBE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Cashier.My.MyApplication</StartupObject>
+    <RootNamespace>Cashier</RootNamespace>
+    <AssemblyName>Cashier</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Cashier.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Cashier.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CallCenter.Designer.vb">
+      <DependentUpon>CallCenter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CallCenter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanPerNota.Designer.vb">
+      <DependentUpon>LaporanPerNota.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanPerNota.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBarang.Designer.vb">
+      <DependentUpon>EditBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUservb.Designer.vb">
+      <DependentUpon>EditUservb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditUservb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Email.Designer.vb">
+      <DependentUpon>Email.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Email.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota\FormLaporanBulanan.Designer.vb">
+      <DependentUpon>FormLaporanBulanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nota\FormLaporanBulanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota\FormLaporanHarian.Designer.vb">
+      <DependentUpon>FormLaporanHarian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nota\FormLaporanHarian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota\FormLaporanMingguan.Designer.vb">
+      <DependentUpon>FormLaporanMingguan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nota\FormLaporanMingguan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota\FormLaporanPerNota.Designer.vb">
+      <DependentUpon>FormLaporanPerNota.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nota\FormLaporanPerNota.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GantiNama.Designer.vb">
+      <DependentUpon>GantiNama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GantiNama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GantiPassword.Designer.vb">
+      <DependentUpon>GantiPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GantiPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HapusBarang.Designer.vb">
+      <DependentUpon>HapusBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HapusBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HapusUser.Designer.vb">
+      <DependentUpon>HapusUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HapusUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KasirDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KasirDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanBulanan.Designer.vb">
+      <DependentUpon>LaporanBulanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanBulanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanHarian.Designer.vb">
+      <DependentUpon>LaporanHarian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanHarian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanMingguan.Designer.vb">
+      <DependentUpon>LaporanMingguan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanMingguan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBarang.Designer.vb">
+      <DependentUpon>ListBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListUser.Designer.vb">
+      <DependentUpon>ListUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUtama.Designer.vb">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TambahBarang.Designer.vb">
+      <DependentUpon>TambahBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TambahBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TambahUser.Designer.vb">
+      <DependentUpon>TambahUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TambahUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi.Designer.vb">
+      <DependentUpon>Transaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CallCenter.resx">
+      <DependentUpon>CallCenter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanPerNota.resx">
+      <DependentUpon>LaporanPerNota.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBarang.resx">
+      <DependentUpon>EditBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUservb.resx">
+      <DependentUpon>EditUservb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Email.resx">
+      <DependentUpon>Email.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\FormLaporanMingguan.resx">
+      <DependentUpon>FormLaporanMingguan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\LaporanMingguan.rdlc" />
+    <EmbeddedResource Include="Nota\LaporanBulanan.rdlc" />
+    <EmbeddedResource Include="Nota\FormLaporanBulanan.resx">
+      <DependentUpon>FormLaporanBulanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\FormLaporanHarian.resx">
+      <DependentUpon>FormLaporanHarian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\LaporanHarian.rdlc" />
+    <EmbeddedResource Include="Nota\FormLaporanPerNota.resx">
+      <DependentUpon>FormLaporanPerNota.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GantiNama.resx">
+      <DependentUpon>GantiNama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GantiPassword.resx">
+      <DependentUpon>GantiPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HapusBarang.resx">
+      <DependentUpon>HapusBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HapusUser.resx">
+      <DependentUpon>HapusUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanBulanan.resx">
+      <DependentUpon>LaporanBulanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanHarian.resx">
+      <DependentUpon>LaporanHarian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanMingguan.resx">
+      <DependentUpon>LaporanMingguan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListBarang.resx">
+      <DependentUpon>ListBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListUser.resx">
+      <DependentUpon>ListUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUtama.resx">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\LaporanPerNota.rdlc" />
+    <EmbeddedResource Include="TambahBarang.resx">
+      <DependentUpon>TambahBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TambahUser.resx">
+      <DependentUpon>TambahUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaksi.resx">
+      <DependentUpon>Transaksi.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KasirDataSet1.xsc">
+      <DependentUpon>KasirDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="KasirDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KasirDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KasirDataSet1.xss">
+      <DependentUpon>KasirDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user-2-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-user-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disapprove-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gear-2-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credit-card-5-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard-2-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info-5-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filled-box-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-5-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-2-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-list-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-property-64%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-64%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list-ingredients-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard-4-64%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard-64%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard-8-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lg_56af0c511a7f0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart-29-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxCrystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Crystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

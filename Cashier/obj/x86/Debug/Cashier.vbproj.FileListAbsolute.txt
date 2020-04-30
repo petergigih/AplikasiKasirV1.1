@@ -1,0 +1,167 @@
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.vbproj.GenerateResource.Cache
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\bin\Debug\Cashier.exe
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\bin\Debug\Cashier.pdb
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\bin\Debug\Cashier.xml
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.CallCenter.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.EditBarang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.EditUservb.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.Email.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.HapusBarang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.HapusUser.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.LaporanBulananvb.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.LaporanHarian.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.LaporanMingguan.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.ListBarang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.ListUser.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.MenuUtama.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.Login.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.Resources.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.Tambah_Barang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.TambahUser.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.exe
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.xml
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\SistemPerpus\obj\x86\Debug\Cashier.pdb
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.exe
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.xml
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.pdb
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\bin\Debug\Cashier.exe
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\bin\Debug\Cashier.pdb
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\bin\Debug\Cashier.xml
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.CallCenter.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.EditBarang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.EditUservb.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Email.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.HapusBarang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.HapusUser.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanBulananvb.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanHarian.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanMingguan.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.ListBarang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.ListUser.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.MenuUtama.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Login.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Resources.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Tambah_Barang.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.TambahUser.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.vbproj.GenerateResource.Cache
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Transaksi.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Form1.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.GantiNama.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.GantiPassword.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\bin\Debug\Cashier.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\bin\Debug\Cashier.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\bin\Debug\Cashier.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.CallCenter.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.EditBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.EditUservb.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Email.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.GantiNama.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.GantiPassword.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.HapusBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.HapusUser.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanHarian.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanMingguan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.ListBarang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.ListUser.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.MenuUtama.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Login.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Resources.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Tambah_Barang.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.TambahUser.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.Transaksi.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.vbproj.GenerateResource.Cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.vbprojResolveAssemblyReference.cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.vbproj.ResolveComReference.cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\bin\Debug\Interop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\bin\Debug\AxInterop.Crystal.dll
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\RdlCompile.cache
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\RdlCompile.compiled
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanPerNota.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanBulanan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanHarian.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanPerNota.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanBulanan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanMingguan.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.vbproj.ResolveComReference.cache
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.exe
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.xml
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.pdb
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\bin\Debug\Cashier.exe
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\bin\Debug\Cashier.pdb
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\bin\Debug\Cashier.xml
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\bin\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\bin\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.vbprojResolveAssemblyReference.cache
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.CallCenter.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanPerNota.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.EditBarang.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.EditUservb.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.Email.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanMingguan.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanBulanan.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanHarian.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanPerNota.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.GantiNama.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.GantiPassword.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.HapusBarang.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.HapusUser.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanBulanan.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanHarian.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanMingguan.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.ListBarang.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.ListUser.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.MenuUtama.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.Login.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.Resources.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.Tambah_Barang.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.TambahUser.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.Transaksi.resources
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\Cashier.vbproj.GenerateResource.Cache
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\RdlCompile.cache
+D:\Coding\Project\Project 3 Kasir\Cashier\Cashier\obj\x86\Debug\RdlCompile.compiled
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.vbproj.ResolveComReference.cache
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.exe
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.xml
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.pdb
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\bin\Debug\Cashier.exe
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\bin\Debug\Cashier.pdb
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\bin\Debug\Cashier.xml
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\bin\Debug\Interop.Crystal.dll
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\bin\Debug\AxInterop.Crystal.dll
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.vbprojResolveAssemblyReference.cache
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.CallCenter.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanPerNota.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.EditBarang.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.EditUservb.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.Email.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanMingguan.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanBulanan.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanHarian.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.FormLaporanPerNota.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.GantiNama.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.GantiPassword.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.HapusBarang.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.HapusUser.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanBulanan.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanHarian.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.LaporanMingguan.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.ListBarang.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.ListUser.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.MenuUtama.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.Login.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.Resources.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.Tambah_Barang.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.TambahUser.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.Transaksi.resources
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\Cashier.vbproj.GenerateResource.Cache
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\RdlCompile.cache
+D:\Coding\Project\Project 3 Kasir\1\Cashier\Cashier\obj\x86\Debug\RdlCompile.compiled
